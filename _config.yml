@@ -1,0 +1,14 @@
+layout_spectrum: 0.3400187
+color:
+  saturation: 0.641791
+  lightness: 0.4472948
+  brandStrength: 0.7691231
+  brandColors:
+    - '#3F4C83'
+    - '#C3A984'
+    - '#8D7D66'
+    - '#FFFDCA'
+    - '#FD4543'
+  rhythmicContrast: 0.5475746
+typography_spectrum: 0.3978545
+name: GracieFV
